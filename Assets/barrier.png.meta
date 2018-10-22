@@ -1,0 +1,335 @@
+fileFormatVersion: 2
+guid: ef22181b7c54e4a9bbd6dc763ea706b9
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: barrier_0
+    21300002: barrier_1
+    21300004: barrier_2
+    21300006: barrier_3
+    21300008: barrier_4
+    21300010: barrier_5
+    21300012: barrier_6
+    21300014: barrier_7
+    21300016: barrier_8
+    21300018: barrier_9
+    21300020: barrier_10
+    21300022: barrier_11
+    21300024: barrier_12
+    21300026: barrier_13
+    21300028: barrier_14
+    21300030: barrier_15
+    21300032: barrier_16
+    21300034: barrier_17
+    21300036: barrier_18
+    21300038: barrier_19
+    21300040: barrier_20
+    21300042: barrier_21
+    21300044: barrier_22
+    21300046: barrier_23
+    21300048: barrier_24
+    21300050: barrier_25
+    21300052: barrier_26
+    21300054: barrier_27
+    21300056: barrier_28
+    21300058: barrier_29
+    21300060: barrier_30
+    21300062: barrier_31
+    21300064: barrier_32
+    21300066: barrier_33
+    21300068: barrier_34
+    21300070: barrier_35
+    21300072: barrier_36
+    21300074: barrier_37
+    21300076: barrier_38
+    21300078: barrier_39
+    21300080: barrier_40
+    21300082: barrier_41
+    21300084: barrier_42
+    21300086: barrier_43
+    21300088: barrier_44
+    21300090: barrier_45
+    21300092: barrier_46
+    21300094: barrier_47
+    21300096: barrier_48
+    21300098: barrier_49
+    21300100: barrier_50
+    21300102: barrier_51
+    21300104: barrier_52
+    21300106: barrier_53
+    21300108: barrier_54
+    21300110: barrier_55
+    21300112: barrier_56
+    21300114: barrier_57
+    21300116: barrier_58
+    21300118: barrier_59
+    21300120: barrier_60
+    21300122: barrier_61
+    21300124: barrier_62
+    21300126: barrier_63
+    21300128: barrier_64
+    21300130: barrier_65
+    21300132: barrier_66
+    21300134: barrier_67
+    21300136: barrier_68
+    21300138: barrier_69
+    21300140: barrier_70
+    21300142: barrier_71
+    21300144: barrier_72
+    21300146: barrier_73
+    21300148: barrier_74
+    21300150: barrier_75
+    21300152: barrier_76
+    21300154: barrier_77
+    21300156: barrier_78
+    21300158: barrier_79
+    21300160: barrier_80
+    21300162: barrier_81
+    21300164: barrier_82
+    21300166: barrier_83
+    21300168: barrier_84
+    21300170: barrier_85
+    21300172: barrier_86
+    21300174: barrier_87
+    21300176: barrier_88
+    21300178: barrier_89
+    21300180: barrier_90
+    21300182: barrier_91
+    21300184: barrier_92
+    21300186: barrier_93
+    21300188: barrier_94
+    21300190: barrier_95
+    21300192: barrier_96
+    21300194: barrier_97
+    21300196: barrier_98
+    21300198: barrier_99
+    21300200: barrier_100
+    21300202: barrier_101
+    21300204: barrier_102
+    21300206: barrier_103
+    21300208: barrier_104
+    21300210: barrier_105
+    21300212: barrier_106
+    21300214: barrier_107
+    21300216: barrier_108
+    21300218: barrier_109
+    21300220: barrier_110
+    21300222: barrier_111
+    21300224: barrier_112
+    21300226: barrier_113
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: barrier_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 230
+        height: 230
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59bfad6f471746cdb6992a8b7807b61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrier_1
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 30
+        width: 230
+        height: 230
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98f739ff756846819d3b07066b3dbec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrier_2
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 0
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1196e4e0452d42bd9d03f02d7a019a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrier_3
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 30
+        width: 230
+        height: 230
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b039cd45199a2466c9b73095d4e35374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrier_4
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 230
+        width: 491
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0dbc67b63c64186bcf2f1da7718d30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7d992c9f2b1a3458cac69e943ad81abd
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

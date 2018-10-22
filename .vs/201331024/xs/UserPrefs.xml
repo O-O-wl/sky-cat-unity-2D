@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{82D9BBB4-0E84-3948-C4FF-15F246056FAE}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/barrierController.cs">
+    <Files>
+      <File FileName="Assets/AttackController.cs" Line="1" Column="1" />
+      <File FileName="Assets/AttackGenerator.cs" Line="16" Column="18" />
+      <File FileName="Assets/SlimeController.cs" Line="41" Column="30" />
+      <File FileName="Assets/CamaraDirector.cs" Line="1" Column="1" />
+      <File FileName="Assets/fishController.cs" Line="49" Column="55" />
+      <File FileName="Assets/CloudController.cs" Line="52" Column="14" />
+      <File FileName="Assets/SnowController.cs" Line="1" Column="1" />
+      <File FileName="Assets/GameDirector.cs" Line="83" Column="53" />
+      <File FileName="Assets/PointController.cs" Line="86" Column="9" />
+      <File FileName="Assets/SmallCloudController.cs" Line="1" Column="1" />
+      <File FileName="Assets/GameStarter.cs" Line="100" Column="21" />
+      <File FileName="Assets/slimeAttack.cs" Line="10" Column="8" />
+      <File FileName="Assets/TotalScore.cs" Line="24" Column="6" />
+      <File FileName="Assets/StartSceneDirector.cs" Line="50" Column="11" />
+      <File FileName="Assets/EndingSceneDirector.cs" Line="21" Column="25" />
+      <File FileName="Assets/EndingDirector.cs" Line="18" Column="23" />
+      <File FileName="Assets/SnowGenerator.cs" Line="12" Column="16" />
+      <File FileName="Assets/magnetController.cs" Line="15" Column="31" />
+      <File FileName="Assets/barrierController.cs" Line="9" Column="24" />
+      <File FileName="Assets/shieldController.cs" Line="11" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
